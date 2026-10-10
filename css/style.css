@@ -1,38 +1,19 @@
 body {
     font-family: Tahoma, sans-serif;
-    background: #f2f2f2;
-    margin: 0;
+    background-color: #f2f2f2;
 }
 
-header {
-    background: navy;
-    color: white;
-    text-align: center;
-    padding: 20px;
-}
-
-section {
-    background: white;
-    margin: 20px;
-    padding: 20px;
-    border-radius: 8px;
-}
-
-img {
-    border-radius: 10px;
+header,
+footer {
+    background-color: #2f4b7c;
 }
 
 h2 {
-    color: navy;
+    border-bottom: 2px solid #2f4b7c;
+    padding-bottom: 5px;
+    margin-bottom: 20px;
 }
 
-a {
-    color: blue;
-}
-
-footer {
-    background: navy;
-    color: white;
-    text-align: center;
-    padding: 10px;
+h3 {
+    font-size: 20px;
 }
