@@ -1,0 +1,38 @@
+body {
+    font-family: Tahoma, sans-serif;
+    background: #f2f2f2;
+    margin: 0;
+}
+
+header {
+    background: navy;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+section {
+    background: white;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+img {
+    border-radius: 10px;
+}
+
+h2 {
+    color: navy;
+}
+
+a {
+    color: blue;
+}
+
+footer {
+    background: navy;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
